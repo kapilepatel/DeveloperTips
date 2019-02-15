@@ -8,6 +8,8 @@ Alt Ctrl End
 View globally installed npm packages
 npm list -g --depth 0
 
+Error :"Address already in use"
+
 View list of processes with port number in Windows
 Open a command prompt and run the command:
 netstat -a -n -p tcp -o
